@@ -1,0 +1,44 @@
+header {
+  
+}
+
+h1 {
+    font-family: 'Cardo', serif;
+    font-size: 55px;
+    font-weight: bold;
+    color: gold;
+
+    text-shadow: 1px 0px 1px #0f0f0f, 0px 1px 1px #030303, 2px 1px 1px #000000, 1px 2px 1px #0c0c0c;
+}
+.crave{
+    font-family: 'Martel', serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: gold;
+
+    text-shadow: 1px 0px 1px #0f0f0f, 0px 1px 1px #030303;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #0b630b, #23cc2c, #07924d);
+    color: white;
+}
+
+.navbar-dark {
+    background-color: #075330;
+
+     color: gold;
+}
+btn {
+    color: gold;
+}
+
+.site-footer {
+    background-image: linear-gradient(to right, #0b630b, #23cc2c, #07924d);
+    padding: 20px 0;
+}
+.card-body {
+    
+}
